@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;0,400;0,500;1,500&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+img{
+    border-radius: 30px;
+    width:100%;
+    padding: 2%;
+}
+body{
+    background-color: #013440;
+    margin: 5%;
+    
+}
+
+main{
+    max-width: 800px;
+    min-width: 300px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 2%;
+    font-family: 'Kanit';
+    font-weight: 300;
+}
+
+header{
+    background-color: rgba(255, 255, 255, 0.459);
+    font-family: 'Kanit';
+    font-weight: 500;
+    font-style: italic;
+    padding: 2%;
+    
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+    font-weight: 500;
+}
+
+
